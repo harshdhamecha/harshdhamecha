@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshdhamecha
+- 👋 Hi, I’m Harsh Dhamecha, Computer Science Student
 - 👀 I’m interested in hot technologies like AI and Blockchain
 - 🌱 I’m currently learning Data Science
 - 📫 harshdhamecha10@gmail.com
